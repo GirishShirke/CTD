@@ -23,6 +23,7 @@
 <value description="A valid item that is in stock" name="validInStock" weight="1"/>
 <value description="A valid item that is not in stock." name="validOutOfStock" weight="1"/>
 <value description="Item is not valid." name="invalid" weight="1"/>
+<value name="unknown" weight="1"/>
 </attribute>
 <attribute attr_class="NONE" dependencies="false" description="True if item is subject to export regulations" iotype="NEITHER" name="ItemIsExportControlled" type="BOOLEAN">
 <value name="true" weight="1"/>
